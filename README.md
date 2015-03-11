@@ -1,2 +1,2 @@
-# The-Nebula-Website
+# The Nebula Website
 Website for The Nebula.
